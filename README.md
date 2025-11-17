@@ -1,4 +1,4 @@
-<img width="818" height="251" alt="image" src="https://github.com/user-attachments/assets/858b0de8-8ef0-47ca-81d9-43bf68fe3c6f" /><h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 
 <h3> DATE: <h3>
 <h3>Name: V.POOJAA SREE</h3>
@@ -111,7 +111,6 @@ agent.print_status()
 ## Output :
 
 <img width="818" height="251" alt="O" src="https://github.com/user-attachments/assets/b6c93f9d-e773-4f76-b0d6-288f8b7664bb" />
-
 
 
 ## Result :
